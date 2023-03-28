@@ -1,0 +1,3 @@
+C:\Users\jesse.viitanen\source\repos\CMLPR\CMLPR\x64\Release\CMLPR.vcxproj.CopyComplete
+C:\Users\jesse.viitanen\source\repos\AI_LPR_Jesse\CMLPR\x64\Release\CMLPR.vcxproj.CopyComplete
+C:\Users\jesse.viitanen\Desktop\aiBackup\CMLPR\x64\Release\CMLPR.vcxproj.CopyComplete

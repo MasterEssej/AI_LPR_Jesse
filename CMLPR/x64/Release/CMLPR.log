@@ -1,0 +1,11 @@
+﻿  CMLPR.cpp
+C:\Users\jesse.viitanen\Desktop\aiBackup\CMLPR\CMLPR.cpp(86,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jesse.viitanen\Desktop\aiBackup\CMLPR\CMLPR.cpp(281,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jesse.viitanen\Desktop\aiBackup\CMLPR\CMLPR.cpp(333,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jesse.viitanen\Desktop\aiBackup\CMLPR\CMLPR.cpp(588,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  325 of 332 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CMLPR.vcxproj -> C:\Users\jesse.viitanen\Desktop\aiBackup\x64\Release\CMLPR.exe
